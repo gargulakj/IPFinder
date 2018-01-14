@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IP Finder</string>
+    <string name="ip_addr_hint">Insert IP address</string>
+    <string name="find_ip">Find Entered IP</string>
+    <string name="find_myip">Find My IP</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="contact">Contact</string>
+    <string name="location">Location</string>
+</resources>
